@@ -102,7 +102,7 @@ private static $Instance;
 					$hash[] = 0;
 			}
 		}
-		// Use the original average hash as per kennethrapp
+		
 		else
 		{
 			foreach($pixels as $px){
